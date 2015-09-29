@@ -8,6 +8,6 @@ public class test1 {
 	public void nm(){
 		System.out.println("gold");
 		System.out.println(false);
-		System.out.println("king");
+		System.out.println("kingly");
 	}
 }
