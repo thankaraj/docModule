@@ -6,6 +6,7 @@ public class test1 {
 
 	@Test
 	public void nm(){
-		System.out.println(true);
+		System.out.println("gold");
+		System.out.println(false);
 	}
 }
