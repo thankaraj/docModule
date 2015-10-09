@@ -9,5 +9,8 @@ public class test1 {
 		System.out.println("gold");
 		System.out.println(false);
 		System.out.println("kingly");
+System.out.println("ys");
+
+
 	}
 }
